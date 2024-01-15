@@ -1,4 +1,4 @@
-package br.com.airplaces.domain;
+package br.com.airplaces.domain.models;
 
 import jakarta.persistence.Embeddable;
 import lombok.AllArgsConstructor;
